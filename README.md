@@ -1,4 +1,4 @@
-# 📊 Finance & Sales Performance Dashboard
+#  Finance & Sales Performance Dashboard
 
 This project presents an interactive **Finance and Sales Performance Dashboard** built to analyze key business metrics such as Total Sales, COGS, Profit, Discounts, and Sales trends across multiple dimensions.  
 The dashboard helps understand financial performance and uncover insights across products, countries, customer segments, and time periods.
